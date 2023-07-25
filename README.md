@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saikumarkella
-- 👀 I’m interested in Artifical Intelligene 
+- 👀 I’m interested in Artifical Intelligence 
 - 🌱 I’m currently learning Neural renderin
 
 
